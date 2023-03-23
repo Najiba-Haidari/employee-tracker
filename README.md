@@ -1,5 +1,5 @@
 # employee-tracker
-Employee Tracker - Challenge Week12
+Employee Tracker - Challenge Week 12 using SQL
 
 # Description
 
